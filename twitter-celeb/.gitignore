@@ -1,0 +1,5 @@
+*.env
+../awesomeProject/
+../github.com/
+../gopkg.in/
+.idea/
